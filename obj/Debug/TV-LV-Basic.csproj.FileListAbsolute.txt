@@ -1,0 +1,8 @@
+C:\Work\Repos\FileExplorer\obj\Debug\TV-LV-Basic.exe
+C:\Work\Repos\FileExplorer\obj\Debug\TV-LV-Basic.pdb
+C:\Work\Repos\FileExplorer\bin\Debug\TV-LV-Basic.exe
+C:\Work\Repos\FileExplorer\bin\Debug\TV-LV-Basic.pdb
+C:\Work\Repos\FileExplorer\obj\Debug\TV-LV-Basic.csproj.GenerateResource.cache
+C:\Work\Repos\FileExplorer\obj\Debug\TV-LV-Basic.csproj.CoreCompileInputs.cache
+C:\Work\Repos\FileExplorer\obj\Debug\TV-LV-Basic.csprojAssemblyReference.cache
+C:\Work\Repos\FileExplorer\obj\Debug\Form1.resources
