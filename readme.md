@@ -6,7 +6,7 @@ Command line example:
 ```dos
 FileBrowsa "C:\MyPath" "*.pdf"
 ```
-![](file:///FileBrowsa_screenshot.png)
+![](FileBrowsa_screenshot.png)
 
 ## Change Log
 
