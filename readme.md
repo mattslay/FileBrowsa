@@ -1,6 +1,10 @@
 ﻿# FileBrowsa
 
-A simple Windows GUI app to browse files in a folder. Supports command line parameters when launching the app so you can pass the initial starting folder, and a filter or filemask expression to apply to the file list. You can also launch the default app for any file by double-clicking on the filename.
+A simple Windows GUI app to browse files in a folder, much like Windows Explorer. 
+
+**One big thing about this utility is that it supports command line parameters when launching the app so you can pass the initial starting folder, and a filter or filemask expression to apply to the file list.  Also, uou can also launch the default Windows app to open any file by double-clicking on the filename.**
+ 
+ (Full disclosure, the starting point for this app was a project I found on Code Project written by Russell Mangel. Link in credits below.) 
 
 Command line example:
 ```dos
