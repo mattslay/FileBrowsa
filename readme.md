@@ -2,9 +2,11 @@
 
 A simple Windows GUI app to browse files in a folder, much like Windows Explorer. 
 
-**One big thing about this utility is that it supports command line parameters when launching the app so you can pass the initial starting folder, and a filter or filemask expression to apply to the file list.  Also, uou can also launch the default Windows app to open any file by double-clicking on the filename.**
+**One big thing about this utility is that it supports command line parameters when launching the app so you can pass the initial starting folder, and a filter or file mask expression to apply to the file list.  In the app, you can double-click on any filename to launch the default Windows app to open or edit the file.**
  
  (Full disclosure, the starting point for this app was a project I found on Code Project written by Russell Mangel. Link in credits below.) 
+
+Once you copy the exe to a folder on your computer, you can just double-click to launch the app, but it also supports command line parameters allowing you to specify the starting folder and an optional filter expression if you want to apply a file mask to limit which files are displayed.
 
 Command line example:
 ```dos
